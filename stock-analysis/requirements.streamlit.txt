@@ -1,0 +1,6 @@
+# requirements.streamlit.txt
+streamlit
+pandas
+plotly
+duckdb
+pyarrow
