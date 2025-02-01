@@ -1,0 +1,7 @@
+# requirements.airflow.txt
+apache-airflow>=2.7.1
+pandas
+yfinance
+pyarrow
+aiohttp
+asyncio
